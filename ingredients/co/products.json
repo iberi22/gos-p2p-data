@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "panela",
+    "name": "Panela",
+    "country": "co",
+    "category": "basic",
+    "tags": ["endulzante", "tradicional", "colombiano"],
+    "description": "Jugo de caña de azúcar solidificado"
+  },
+  {
+    "slug": "yuca",
+    "name": "Yuca",
+    "country": "co",
+    "category": "tuberculo",
+    "tags": ["raíz", "colombiano", "carbohidrato"],
+    "description": "Raíz de mandioca, frita o hervida"
+  },
+  {
+    "slug": "hogao",
+    "name": "Hogao",
+    "country": "co",
+    "category": "salsa",
+    "tags": ["colombiano", "tomate", "cebolla"],
+    "description": "Salsa de tomate y cebolla larga, base de la cocina colombiana"
+  },
+  {
+    "slug": "arepa",
+    "name": "Arepa",
+    "country": "co",
+    "category": "masa",
+    "tags": ["colombiano", "maíz", "desayuno"],
+    "description": "Masa de maíz asada, el pan colombiano por excelencia"
+  },
+  {
+    "slug": "chocolate-santafe",
+    "name": "Chocolate Santafereño",
+    "country": "co",
+    "category": "bebida",
+    "tags": ["colombiano", "bogotá", "chocolate", "bebida"],
+    "description": "Chocolate caliente espeso con queso y pan, tradicional de Bogotá"
+  }
+]

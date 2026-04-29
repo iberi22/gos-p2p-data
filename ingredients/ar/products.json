@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "carne-asada",
+    "name": "Carne Asada",
+    "country": "ar",
+    "category": "carne",
+    "tags": ["argentino", "asado", "parrilla"],
+    "description": "Carne de res a la parrilla"
+  },
+  {
+    "slug": "dulce-de-leche",
+    "name": "Dulce de Leche",
+    "country": "ar",
+    "category": "postre",
+    "tags": ["argentino", "dulce", "leche"],
+    "description": "Leche condensada caramelizada"
+  },
+  {
+    "slug": "chimichurri",
+    "name": "Chimichurri",
+    "country": "ar",
+    "category": "salsa",
+    "tags": ["argentino", "perejil", "ajo", "vinagre"],
+    "description": "Salsa argentina de perejil, ajo, vinagre y especias"
+  },
+  {
+    "slug": "yerba-mate",
+    "name": "Yerba Mate",
+    "country": "ar",
+    "category": "bebida",
+    "tags": ["argentino", "té", "estimulante"],
+    "description": "Infusión tradicional rioplatense, rica en antioxidantes"
+  }
+]

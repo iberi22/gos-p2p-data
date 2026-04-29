@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "aji-amarillo",
+    "name": "Ají Amarillo",
+    "country": "pe",
+    "category": "condimento",
+    "tags": ["peruano", "picante", "sabor"],
+    "description": "Ají de color amarillo intenso, base de la cocina peruana"
+  },
+  {
+    "slug": "quinua",
+    "name": "Quinua",
+    "country": "pe",
+    "category": "grano",
+    "tags": ["andino", "proteína", "superfood"],
+    "description": "Grano andino rico en proteínas"
+  },
+  {
+    "slug": "papa",
+    "name": "Papa Nativa",
+    "country": "pe",
+    "category": "tuberculo",
+    "tags": ["peruano", "andino"],
+    "description": "Miles de variedades de papas nativas peruanas"
+  },
+  {
+    "slug": "camu-camu",
+    "name": "Camu Camu",
+    "country": "pe",
+    "category": "fruta",
+    "tags": ["peruano", "amazonía", "vitamina-c"],
+    "description": "Fruta amazónica con altísimo contenido de vitamina C"
+  }
+]

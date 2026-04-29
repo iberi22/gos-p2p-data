@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "tofu",
+    "name": "豆腐 / Tofu",
+    "country": "cn",
+    "category": "proteina",
+    "tags": ["chino", "soya", "vegetariano"],
+    "description": "Cuajada de soya, base de la cocina vegetariana china"
+  },
+  {
+    "slug": "soy-sauce",
+    "name": "酱油 / Salsa de Soya",
+    "country": "cn",
+    "category": "condimento",
+    "tags": ["chino", "umami", "fermentado"],
+    "description": "Salsa fermentada de soya, condimento esencial"
+  },
+  {
+    "slug": "jasmine-rice",
+    "name": "茉莉香米 / Arroz Jazmín",
+    "country": "cn",
+    "category": "grano",
+    "tags": ["chino", "arroz", "aromático"],
+    "description": "Arroz aromático de grano largo, base de la mesa china"
+  },
+  {
+    "slug": "ginger",
+    "name": "姜 / Jengibre",
+    "country": "cn",
+    "category": "condimento",
+    "tags": ["chino", "raíz", "aromatizante"],
+    "description": "Raíz picante que realza sopas y salteados"
+  }
+]

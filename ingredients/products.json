@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "panela",
+    "name": "Panela",
+    "country": "co",
+    "category": "basic",
+    "tags": ["endulzante", "tradicional", "colombiano"],
+    "description": "Jugo de caña de azúcar solidificado, base de la cocina colombiana"
+  },
+  {
+    "slug": "yuca",
+    "name": "Yuca",
+    "country": "co",
+    "category": "tuberculo",
+    "tags": ["raíz", "colombiano", "carbohidrato"],
+    "description": "Raíz de mandioca, versátil frita o hervida"
+  },
+  {
+    "slug": "aji-amarillo",
+    "name": "Ají Amarillo",
+    "country": "pe",
+    "category": "condimento",
+    "tags": ["peruano", "picante", "sabor"],
+    "description": "Ají de color amarillo intenso, base de la cocina peruana"
+  },
+  {
+    "slug": "quinua",
+    "name": "Quinua",
+    "country": "pe",
+    "category": "grano",
+    "tags": ["andino", "proteína", "superfood"],
+    "description": "Grano andino rico en proteínas, cultivado en Perú y Bolivia"
+  },
+  {
+    "slug": "aguacate",
+    "name": "Aguacate",
+    "country": "mx",
+    "category": "fruta",
+    "tags": ["mexicano", "guacamole", "grasa-saludable"],
+    "description": "Base del guacamole, cremoso y versátil"
+  },
+  {
+    "slug": "maiz",
+    "name": "Maíz",
+    "country": "mx",
+    "category": "grano",
+    "tags": ["mexicano", "masa", "tortilla", "tamal"],
+    "description": "Maíz nixtamalizado, base de tortillas y tamales"
+  },
+  {
+    "slug": "carne-asada",
+    "name": "Carne Asada",
+    "country": "ar",
+    "category": "carne",
+    "tags": ["argentino", "asado", "parrilla"],
+    "description": "Carne de res a la parrilla, corazón de la cultura argentina"
+  },
+  {
+    "slug": "dulce-de-leche",
+    "name": "Dulce de Leche",
+    "country": "ar",
+    "category": "postre",
+    "tags": ["argentino", "dulce", "leche", "postre"],
+    "description": "Leche condensada caramelizada, postre emblemático"
+  },
+  {
+    "slug": "cheddar",
+    "name": "Cheddar Cheese",
+    "country": "us",
+    "category": "lacteo",
+    "tags": ["americano", "queso", "hamburguesa"],
+    "description": "Queso cheddar clásico americano, fundente"
+  },
+  {
+    "slug": "maple-syrup",
+    "name": "Maple Syrup",
+    "country": "us",
+    "category": "endulzante",
+    "tags": ["americano", "jarabe", "desayuno"],
+    "description": "Jarabe de arce, endulzante natural de Norteamérica"
+  },
+  {
+    "slug": "tofu",
+    "name": "Tofu",
+    "country": "cn",
+    "category": "proteina",
+    "tags": ["chino", "soya", "vegetariano"],
+    "description": "Cuajada de soya, base de la cocina vegetariana china"
+  },
+  {
+    "slug": "salsa-de-soya",
+    "name": "Salsa de Soya",
+    "country": "cn",
+    "category": "condimento",
+    "tags": ["chino", "umami", "fermentado"],
+    "description": "Salsa fermentada de soya, condimento esencial"
+  }
+]

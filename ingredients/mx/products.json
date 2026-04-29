@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "aguacate",
+    "name": "Aguacate Hass",
+    "country": "mx",
+    "category": "fruta",
+    "tags": ["mexicano", "guacamole"],
+    "description": "Aguacate cremoso, base del guacamole"
+  },
+  {
+    "slug": "chile",
+    "name": "Chile Poblano",
+    "country": "mx",
+    "category": "verdura",
+    "tags": ["mexicano", "picante", "relleno"],
+    "description": "Chile suave, perfecto para chiles rellenos"
+  },
+  {
+    "slug": "jitomate",
+    "name": "Jitomate",
+    "country": "mx",
+    "category": "verdura",
+    "tags": ["mexicano", "salsa", "rojo"],
+    "description": "Tomate rojo mexicano, base de salsas"
+  },
+  {
+    "slug": "epazote",
+    "name": "Epazote",
+    "country": "mx",
+    "category": "hierba",
+    "tags": ["mexicano", "frijoles", "aromatizante"],
+    "description": "Hierba aromática que realza el sabor de frijoles y sopas"
+  }
+]

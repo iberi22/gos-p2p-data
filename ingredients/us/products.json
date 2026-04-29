@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "cheddar",
+    "name": "Cheddar Cheese",
+    "country": "us",
+    "category": "lacteo",
+    "tags": ["american", "cheese", "burger"],
+    "description": "Classic American cheddar, melts perfectly"
+  },
+  {
+    "slug": "maple-syrup",
+    "name": "Maple Syrup",
+    "country": "us",
+    "category": "sweetener",
+    "tags": ["american", "syrup", "breakfast"],
+    "description": "Natural maple syrup from North America"
+  },
+  {
+    "slug": "bacon",
+    "name": "Bacon",
+    "country": "us",
+    "category": "meat",
+    "tags": ["american", "pork", "smoked"],
+    "description": "Smoked pork belly, crispy and savory"
+  },
+  {
+    "slug": "peanut-butter",
+    "name": "Peanut Butter",
+    "country": "us",
+    "category": "spread",
+    "tags": ["american", "peanut", "protein"],
+    "description": "Creamy peanut butter, classic American staple"
+  }
+]
